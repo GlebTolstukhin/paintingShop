@@ -1,0 +1,18 @@
+
+.title {
+    color: #343030;
+    font-family: Merriweather;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 150%; 
+    margin-top: 45px;
+    margin-bottom: 39px;
+}
+
+.basketRow {
+    margin-top: 40px;
+    display: grid;
+    gap: 30px;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}

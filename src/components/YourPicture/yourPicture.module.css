@@ -1,0 +1,20 @@
+.input {
+    display: block;
+    margin-bottom: 10px;
+    width: 250px;
+    height: 35px;
+    background: #F6F3F3;
+    padding: 0 16px;
+}
+.button {
+    display: block;
+    width: 285px;
+    height: 35px;
+    background: #403432;
+    color: #FFF;
+    font-family: Merriweather;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 150%;
+}
